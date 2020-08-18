@@ -6,7 +6,7 @@ answer을 만들어주세요. 예를 들어 a = 3, b = 5인 경우, 3 * 4 * 5 = 
 <br>
 ### 2. 다음 코드의 실행 결과로 알맞은 것은?
 ```
-<script type="text/javascript>
+<script type="text/javascript">
     function car(name) {
         this.name = name;
         this.start = function() {
