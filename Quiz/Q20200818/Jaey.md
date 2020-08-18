@@ -19,4 +19,4 @@ answer을 만들어주세요. 예를 들어 a = 3, b = 5인 경우, 3 * 4 * 5 = 
     
     car2 = new car("SM5");
     car2.start();
-</script>```
+</script>
