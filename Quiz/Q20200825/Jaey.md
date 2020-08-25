@@ -3,7 +3,7 @@
 
 ### 2. 실행결과에 알맞도록 myConcat 함수를 완성하여라. <br>
 
-```function myConcat(separator)
+``function myConcat(separator)
 {
 	var s = "";
 	for(let i = 1; i < arguments.length; i++)
@@ -14,7 +14,7 @@
 	return s;
 }
 
-console.log(myConcat("/", "apple", "orange", "peach"));```
+console.log(myConcat("/", "apple", "orange", "peach"));``
 
 실행결과<br>
 apple/orange/peach
