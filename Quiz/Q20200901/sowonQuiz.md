@@ -1,6 +1,6 @@
 ## 퀴즈 
 
-(https://ko.javascript.info/class#ref-1566)를 바탕으로 만든 퀴즈입니다.
+https://ko.javascript.info/class#ref-1566 를 바탕으로 만든 퀴즈입니다.
 
 아래는 클래스 문법으로 작성한 코드입니다.
 출력값을 참고하여 빈칸에 알맞은 코드를 작성해보세요. 
@@ -9,12 +9,12 @@
 class Person{
     //생성자함수 생성
     constructor() {
-        [ 빈 칸 ]
+        //[ 빈 칸 ]
     }
 
     //메서드 생성
     display() {
-        [ 빈 칸 ]
+        //[ 빈 칸 ]
     }
 };
 
